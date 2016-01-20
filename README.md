@@ -22,7 +22,7 @@ var configuration = {
       name: 'bitcore-notifications',
       module: notifications,
       config: {
-        webhook: 'http://host.com/endpoint'
+        webhooks: ['http://host.com/endpoint']
       }
     }
   ]
