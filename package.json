@@ -12,6 +12,6 @@
     "satoshipay-nano-logger": "^0.5.1"
   },
   "peerDependencies": {
-    "bitcore-lib": "*"
+    "bitcore-lib": "^0.13.0"
   }
 }
