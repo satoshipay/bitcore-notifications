@@ -1,6 +1,6 @@
 {
   "name": "bitcore-notifications",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Calls webhooks on blockchain notifications.",
   "main": "index.js",
   "scripts": {},
