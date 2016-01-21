@@ -7,7 +7,6 @@
   "author": "Satoshipay Ltd.",
   "license": "All rights reserved",
   "dependencies": {
-    "async": "^1.5.2",
     "request": "^2.67.0",
     "satoshipay-nano-logger": "^0.5.1"
   },
