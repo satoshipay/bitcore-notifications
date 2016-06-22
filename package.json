@@ -1,5 +1,5 @@
 {
-  "name": "bitcore-notifications",
+  "name": "@satoshipay/bitcore-notifications",
   "version": "0.2.0",
   "description": "Calls webhooks on blockchain notifications.",
   "main": "index.js",
@@ -8,7 +8,7 @@
   "license": "All rights reserved",
   "dependencies": {
     "request": "^2.67.0",
-    "satoshipay-nano-logger": "^0.5.1"
+    "@satoshipay/satoshipay-nano-logger": "^0.5.1"
   },
   "peerDependencies": {
     "bitcore-lib": "^0.13.0",
