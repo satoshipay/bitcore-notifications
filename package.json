@@ -1,6 +1,6 @@
 {
   "name": "@satoshipay/bitcore-notifications",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "description": "Calls webhooks on blockchain notifications.",
   "main": "index.js",
   "scripts": {},
